@@ -1,5 +1,7 @@
 Esta es mi historia
 
 Soy Luis Velasco Cordova, tengo 36 años
+naci en Cochabamba-Bolivia
+actualmente me encuentro aprendiendo GIT
 
 ...aqui empezamos...
